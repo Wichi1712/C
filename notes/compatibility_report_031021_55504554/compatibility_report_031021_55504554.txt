@@ -1,0 +1,16 @@
+Convirtiendo script GML: ${project_dir}\objects\o_test\Create_0.gml
+Descripción convertida /// @description Variables
+
+Convirtiendo script GML: ${project_dir}\objects\o_test\Draw_0.gml
+Descripción convertida /// @description Dibuja cuadrados de fondo
+
+Convirtiendo script GML: ${project_dir}\objects\o_playerTest\Create_0.gml
+Descripción convertida /// @description Posicion inicial
+
+Convirtiendo script GML: ${project_dir}\objects\o_playerTest\Step_0.gml
+Descripción convertida /// @description Movimiento
+
+Velocidad del juego fijada en 60
+Añadido el script de compatibilidad "instance/instance_create.gml"
+Añadido el script de compatibilidad "object/object_get_depth.gml"
+Añadido el script de compatibilidad "__global_object_depths.gml"
